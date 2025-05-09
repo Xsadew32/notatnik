@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: blue;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
