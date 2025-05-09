@@ -1,1 +1,1 @@
-console.log("witaj")
+alert("witaj")
